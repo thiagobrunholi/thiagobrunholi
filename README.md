@@ -2,7 +2,7 @@
 
 - 🎓 Graduando em Logística, atualmente trabalho no setor de transportes e monitoramento.
 - 🚀 Meu objetivo é unir conhecimentos logísticos com ferramentas de tecnologia para aumentar a eficiência operacional.
-- 💡 Tenho um grande interesse por ferramentas de análise e automação, como Power BI, Excel, C# e SQL.
+- 💡 Tenho um grande interesse por ferramentas de análise, automação e desenvolvimento de software, como Power BI, Excel, SQL, C#, .NET e Python.
 
 ## Tecnologias
 
