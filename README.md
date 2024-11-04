@@ -6,4 +6,4 @@
 
 ## Tecnologias
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=pbi,excel,sqlserver,cs,dotnet)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=pbi,excel,sqlserver,cs,dotnet,git,github)
