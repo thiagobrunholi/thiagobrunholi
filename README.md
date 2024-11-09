@@ -1,4 +1,4 @@
-## Olá! Eu sou Thiago Brunholi 👩🏻‍💻
+### Olá! Eu sou Thiago Brunholi 👩🏻‍💻
 
 - 🎓 Graduando em Logística, atualmente trabalho no setor de transportes e monitoramento.
 - 🚀 Meu objetivo é unir conhecimentos logísticos com ferramentas de tecnologia para aumentar a eficiência operacional.
@@ -10,20 +10,8 @@
 
 ### 📊 Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=thiagobrunholi&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagobrunholi&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br)
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagobrunholi&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+### 📊 Top Linguagens
 
-</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagobrunholi&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9)
