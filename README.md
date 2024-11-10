@@ -10,8 +10,8 @@
 
 ## 📊 Estatísticas
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThiagoBrunholi&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagobrunholi&show_icons=true&theme=radical&locale=pt-br)
 
 ## 📊 Top Linguagens
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoBrunholi&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagobrunholi&theme=radical&layout=compact&custom_title=Tecnologias&langs)
