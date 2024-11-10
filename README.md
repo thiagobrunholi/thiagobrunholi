@@ -14,4 +14,4 @@
 
 ## 📊 Top Linguagens
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagobrunholi&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagobrunholi&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs)
