@@ -1,4 +1,4 @@
-## Olá! Eu sou Thiago Brunholi 👩🏻‍💻
+## Olá! Eu sou Thiago Brunholi 🧑‍💻
 
 - 🎓 Graduando em Logística, atualmente trabalho no setor de transportes e monitoramento.
 - 🚀 Meu objetivo é unir conhecimentos logísticos com ferramentas de tecnologia para aumentar a eficiência operacional.
