@@ -14,4 +14,4 @@
 
 ## 📊 Top Linguagens
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagobrunholi&theme=radical&layout=compact&custom_title=Tecnologias&langs)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagobrunholi&theme=radical&locale=pt-br)
