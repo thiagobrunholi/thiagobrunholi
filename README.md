@@ -10,7 +10,7 @@
 
 ## 📊 Estatísticas
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagobrunholi&show_icons=true&theme=radical&locale=pt-br)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagobrunholi&show_icons=true&theme=radical&locale=pt-br\&rank_icon=github)
 
 ## 📊 Top Linguagens
 
