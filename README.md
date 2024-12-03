@@ -6,11 +6,11 @@
 
 ## 🤖 Linguagens
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=cs,py,sqlserver,css,html)
+[![My Skills](https://skillicons.dev/icons?i=cs,py,css,html)](https://skillicons.dev)
 
 ## 🤖 Tecnologias
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=pbi,excel,dotnet,git,github)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=pbi,excel,sqlserver,dotnet,git,github)
 
 ## 📊 Estatísticas
 
