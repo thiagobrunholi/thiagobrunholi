@@ -10,7 +10,7 @@
 
 ## 🤖 Ferramentas
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=pbi,excel,sqlserver,mysql,dotnet,blazor,git,github)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=pbi,excel,sqlserver,dotnet,blazor,git,github)
 
 ## 📊 Estatísticas
 
