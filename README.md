@@ -6,7 +6,7 @@
 
 ## 🤖 Linguagens
 
-[![My Skills](https://skillicons.dev/icons?i=cs,py,css,html)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,py,html,css)](https://skillicons.dev)
 
 ## 🤖 Tecnologias
 
