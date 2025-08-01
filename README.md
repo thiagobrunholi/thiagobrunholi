@@ -1,6 +1,6 @@
 ## Olá! Eu sou Thiago Brunholi 🧑‍💻
 
-- 🎓 Graduando em Logística, atualmente trabalho no setor de transportes e monitoramento.
+- 🎓 Graduando em Análise e Desenvolvimento de Sistemas, atualmente trabalho no setor de transportes e monitoramento como Analista de Transportes.
 - 🚀 Meu objetivo é unir conhecimentos logísticos com ferramentas de tecnologia para aumentar a eficiência operacional.
 - 💡 Tenho um grande interesse por ferramentas de análise, automação e desenvolvimento de software, como Power BI, Excel, SQL, C#, .NET e Python.
 
