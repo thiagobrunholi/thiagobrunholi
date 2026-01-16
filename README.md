@@ -6,16 +6,8 @@
 
 ## 🤖 Linguagens
 
-[![My Skills](https://skillicons.dev/icons?i=cs,py,html,css,javascript)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cs,py,html,css)](https://skillicons.dev)
 
 ## 🤖 Ferramentas
 
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=pbi,excel,sqlserver,dotnet,blazor,git,github)
-
-## 📊 Estatísticas
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagobrunholi&show_icons=true&theme=dark&locale=pt-br\&rank_icon=github)
-
-## 📊 Top Linguagens
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagobrunholi&theme=dark&locale=pt-br)
