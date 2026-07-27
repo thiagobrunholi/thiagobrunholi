@@ -14,10 +14,9 @@ Sou um profissional com background em logística e interesse em desenvolvimento 
 
 ### Tecnologias e Skills
 
-- Linguagens: C#, Python, SQL, HTML, CSS
-- Ferramentas: Power BI, Excel, SQL Server, .NET, Blazor, Git
+[![My Skills](https://skillicons.dev/icons?i=cs,py,html,css,javascript)](https://skillicons.dev)
 
-[![Skills](https://skillicons.dev/icons?i=c,cs,py,html,css,pbi,excel,sqlserver,dotnet,blazor,git,github)](https://skillicons.dev)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=pbi,excel,sqlserver,dotnet,blazor,git,github)
 
 ### Destaques
 
@@ -32,12 +31,10 @@ Sou um profissional com background em logística e interesse em desenvolvimento 
 
 ---
 
-### Estatísticas do GitHub (opcionais)
+### Estatísticas do GitHub
 
-Você pode adicionar cartões de estatísticas automáticas usando a API externa. Exemplo:
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagobrunholi&show_icons=true&theme=dark&locale=pt-br\&rank_icon=github)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagobrunholi&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagobrunholi&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagobrunholi&theme=dark&locale=pt-br)
 
 ---
