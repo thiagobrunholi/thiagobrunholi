@@ -30,11 +30,3 @@ Sou um profissional com background em logística e interesse em desenvolvimento 
 - LinkedIn: https://www.linkedin.com/in/thiagobrunholi
 
 ---
-
-### Estatísticas do GitHub
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagobrunholi&show_icons=true&theme=dark&locale=pt-br\&rank_icon=github)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagobrunholi&theme=dark&locale=pt-br)
-
----
